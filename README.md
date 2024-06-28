@@ -36,3 +36,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 ## 🔗 Contate-me
 - LinkedIn: [Raphael Vivarini Damico](https://www.linkedin.com/in/raphaelvivarinidamico/)
 - Email: [raphaelvivarinid@gmail.com](mailto:raphaelvivarinid@gmail.com)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RaphaelDamico/RaphaelDamico/blob/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RaphaelDamico/RaphaelDamico/blob/output/light.svg">
+  <img alt="Mostra uma cobra comendo commits" src="https://github.com/RaphaelDamico/RaphaelDamico/blob/output/dark.svg">
+</picture>
